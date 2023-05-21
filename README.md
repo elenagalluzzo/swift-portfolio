@@ -2,7 +2,7 @@
 Hello, thank you for viewing my swift portfolio. My iOS projects can be found below.
 
 ## Wordaurus
-Wordaurus is an iOS game app I created where the user has to guess any synonym to the word that appears on the screen. The synonyms were generated with the word as a parameter and generating possible symptoms using the [English synonyms API](https://rapidapi.com/ericmorvax-2YHUl-ynmUD/api/english-synonyms) by Eric Marvin. I used user defaults to keep track of the player’s score and to display the player’s high score. I used the [ConfettiView](https://cocoapods.org/pods/ConfettiView) cocoa pod by Or Ron to add confetti when the score page appears. This app was fun to create and to play.
+Wordaurus is an iOS game app I created where the user has to guess any synonym to the word that appears on the screen. The synonyms were generated with the word as a parameter and generating possible symptoms using the [English synonyms API](https://rapidapi.com/ericmorvax-2YHUl-ynmUD/api/english-synonyms) by Eric Marvin. I used NSUserDefaults to keep track of the player’s score and to display the player’s high score. I used the [ConfettiView](https://cocoapods.org/pods/ConfettiView) CocoaPod by Or Ron to add confetti when the score page appears. This app was fun to create and to play.
 
 Wordaurus was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout.  You can view the code [here](https://github.com/elenagalluzzo/Wordaurus).  
 <p align="center">
@@ -32,7 +32,7 @@ FunkyCalculator was built with Xcode and written entirely in Swift 5X. The desig
 	<img src="images/FunkyCalculatorImages/FunkyCalculatorPreview2.gif" width="250"  title="FunkyCalculator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
                                                                                         
-## fruitsonality
+## Fruitsonality
 Fruitsonality is my first completed iOS app project. The user is given a scenario with multiple prompts in which they can choose how to react to the scenario by clicking their choice. Depending on their choices, they are presented a fruit at the end of the quiz of their fruit personality. Fruitsonality was loosely based on the take home project Destini from Dr. Angela Yu’s [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
 
 Fruitsonality was built with Xcode and written entirely in Swift 5X. The design was created using Storyboard and Auto Layout. You can view the code [here](https://github.com/elenagalluzzo/fruitsonality).
