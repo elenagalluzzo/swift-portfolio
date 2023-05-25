@@ -22,16 +22,7 @@ TierAnime was built with Xcode and written in Swift 5X. The design was created u
  	<img src="images/TierAnimeImages/TierAnimePreview3.png" width="250"  title="TierAnime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/TierAnimeImages/TierAnimePreview4.gif" width="250"  title="TierAnime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-                                                                                        
-## FunkyCalculator											     
-FunkyCalculator is my first swiftUI project and it functions as a simple calculator. FunkyCalculator was created by combining [Letsbuildthatapp’s Calculator SwiftUI tutorial](https://www.letsbuildthatapp.com/courses/Calculator%20SwiftUI) for the UI, and Dr. Angela Yu’s Calculator Project tutorial in the [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) for the functionality.
-
-FunkyCalculator was built with Xcode and written entirely in Swift 5X. The design was created using SwiftUI. You can view the code [here](https://github.com/elenagalluzzo/FunkyCalculator).  
-<p align="center">
-	<img src="images/FunkyCalculatorImages/FunkyCalculatorPreview1.png" width="250"  title="FunkyCalculator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/FunkyCalculatorImages/FunkyCalculatorPreview2.gif" width="250"  title="FunkyCalculator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-                                                                                        
+   
 ## Fruitsonality
 Fruitsonality is my first completed iOS app project. The user is given a scenario with multiple prompts in which they can choose how to react to the scenario by clicking their choice. Depending on their choices, they are presented a fruit at the end of the quiz of their fruit personality. Fruitsonality was loosely based on the take home project Destini from Dr. Angela Yu’s [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
 
@@ -42,3 +33,12 @@ Fruitsonality was built with Xcode and written entirely in Swift 5X. The design 
  	<img src="images/FruitsonalityImages/FruitsonalityPreview3.png" width="250"  title="fruitsonality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/FruitsonalityImages/FruitsonalityPreview4.gif" width="250"  title="fruitsonality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## FunkyCalculator											     
+FunkyCalculator is my first SwiftUI project and it functions as a simple calculator. FunkyCalculator was created by combining [Letsbuildthatapp’s Calculator SwiftUI tutorial](https://www.letsbuildthatapp.com/courses/Calculator%20SwiftUI) for the UI, and Dr. Angela Yu’s Calculator Project tutorial in the [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) for the functionality.
+
+FunkyCalculator was built with Xcode and written entirely in Swift 5X. The design was created using SwiftUI. You can view the code [here](https://github.com/elenagalluzzo/FunkyCalculator).  
+<p align="center">
+	<img src="images/FunkyCalculatorImages/FunkyCalculatorPreview1.png" width="250"  title="FunkyCalculator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/FunkyCalculatorImages/FunkyCalculatorPreview2.gif" width="250"  title="FunkyCalculator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>                                                                                        
