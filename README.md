@@ -3,9 +3,9 @@ Hello, thank you for viewing my swift portfolio. My iOS projects can be found be
 
 ## Care Capsule
 Care Capsule is a SwiftUI app built for the 2024 Swift Student Challenge that’s purpose is to assist the lives of the elderly, by providing easily accessible care from their mobile device. Care Capsule allows users to keep track of their medication schedule, monitor their tasks and appointments, provides companionship through a logic and machine learning based chatbot that also attempts to read and track their mental health through sentiment analysis, allows users to make a collection of positive memories to look back on, and provides mental health resources catered to older adults. 
-I used several resources and apple technologies. For the assistant, I used AVSpeechSynthesizer for text to speech for improved accessibility by having it explain how to use the app sections and to speak chat responses out loud. The chatbot portion incorporates CreateML’s sentiment analysis, using the [Mental Health Corpus dataset](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus/data) by Reihaneh Namdari to train the model to determine if a message shows signs of low mental health.  The medication schedules, tasks, and memories are persisted locally using SwiftData and the documents directory. You can view the code [here](https://github.com/elenagalluzzo/care-capsule).
+I used several resources and apple technologies. For the assistant, I used AVSpeechSynthesizer for text to speech for improved accessibility by having it explain how to use the app sections and to speak chat responses out loud. The chatbot portion incorporates CreateML’s sentiment analysis, using the [Mental Health Corpus dataset](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus/data) by Reihaneh Namdari to train the model to determine if a message shows signs of low mental health.  The medication schedules, tasks, and memories are persisted locally using SwiftData and the documents directory. 
 
-CareCapsule was built with Xcode Playgrounds and written in Swift 5X. The design was created using SwiftUI. 
+CareCapsule was built with Xcode Playgrounds and written in Swift 5X. The design was created using SwiftUI. You can view the code [here](https://github.com/elenagalluzzo/care-capsule).
 <p align="center">
 	<img src="images/CareCapsuleImages/CareCapsulePreview1.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/CareCapsuleImages/CareCapsulePreview2.png" width="250”  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,10 +15,22 @@ CareCapsule was built with Xcode Playgrounds and written in Swift 5X. The design
  	<img src="images/CareCapsuleImages/CareCapsulePreview7.gif" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## Expoji
+Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend.
+
+Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
+<p align="center">
+	<img src="images/ExpojiImages/ExpojiPreview5.png" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/ExpojiImages/ExpojiPreview1.png" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/ExpojiImages/ExpojiPreview2.png" width="250”  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/ExpojiImages/ExpojiPreview3.png" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/ExpojiImages/ExpojiPreview4.gif" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ## Wordaurus
 Wordaurus is an iOS game app I created where the user has to guess any synonym to the word that appears on the screen. The synonyms were generated with the word as a parameter and generating possible symptoms using the [English synonyms API](https://rapidapi.com/ericmorvax-2YHUl-ynmUD/api/english-synonyms) by Eric Marvin. I used NSUserDefaults to keep track of the player’s score and to display the player’s high score. I used the [ConfettiView](https://cocoapods.org/pods/ConfettiView) CocoaPod by Or Ron to add confetti when the score page appears. This app was fun to create and to play.
 
-Wordaurus was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout.  You can view the code [here](https://github.com/elenagalluzzo/Wordaurus).  
+Wordaurus was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout. You can view the code [here](https://github.com/elenagalluzzo/Wordaurus).  
 <p align="center">
 	<img src="images/WordaurusImages/WordaurusPreview1.png" width="250"  title="Wordaurus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/WordaurusImages/WordaurusPreview2.png" width="250”  title="Wordaurus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
