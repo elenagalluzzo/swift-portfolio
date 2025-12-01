@@ -1,22 +1,76 @@
 # Swift Portfolio
 Hello, thank you for viewing my swift portfolio. My iOS projects can be found below.
 
-## Care Capsule
-Care Capsule is a SwiftUI app built for the 2024 Swift Student Challenge that’s purpose is to assist the lives of the elderly, by providing easily accessible care from their mobile device with the following key features: an AI driven assistant chatbot, medication scheduling and task tracking, support resources tailored for seniors, as well as personal contacts, memories, and log mechanisms. I trained a machine learning model using CreateML sentiment classifier for first version and OpenAI gptmodel for the assistant chatbot version 2, allowing the user to have not only conversational companionship and support, but can also parse and set up medication schedules, tasks, memories, contacts, and logs conversationally as well as other tasks. I developed the backend in Python using AWS EC2 to support a personal project with secure APIs, background
-processing, and scalable deployment. Care Capsule incorporates inclusive frameworks such as AVSpeechSynthesizer for text to speech, SFSpeechRecognizer for speech to text, VoiceOver, Voice Control, and dynamic text support for improved accessibility and usability. The app also utilizes UNUserNotificationCenter for timely medication and task notifications, CLLocationManager for location sharing to
-emergency contacts. User data is persisted locally using SwiftData and the documents directory for the user’s medication schedules, tasks,
-memories, contacts, and logs.
+## Care Capsule: AI Powered Elder Care Assistant
+Care Capsule is a SwiftUI app built for the 2024 Swift Student Challenge that is a comprehensive healthcare companion app designed to assist elderly users by providing easily accessible care through their mobile devices. Built with SwiftUI and Swift Concurrency, the app features an AI-driven assistant chatbot, medication scheduling and task tracking, support resources tailored for seniors, and personal contacts, memories, and log management systems, featuring custom components, with local persistent SwiftData datastore.
+
+The application showcases advanced machine learning integration, evolving from a CreateML sentiment classifier in version 1 to a sophisticated fine-tuned OpenAI GPT model for version 2. This AI assistant provides conversational companionship while intelligently parsing natural language to set up medication schedules, tasks, memories, contacts, and logs through structured JSON responses. A custom Python backend deployed on AWS EC2 powers secure APIs, background processing, and scalable infrastructure.
+
+Accessibility and inclusive design were largely considered while developing Care Capsule, featuring AVSpeechSynthesizer for text-to-speech, SFSpeechRecognizer for voice input, VoiceOver support, Voice Control integration, and dynamic text scaling for enhanced usability among elderly users. Core iOS frameworks include CLLocationManager for emergency contact location sharing, UNUserNotificationCenter for medication reminders, MessageUI for healthcare provider communication, Keychain Services for secure data storage, and SwiftData with local document directory persistence for offline functionality.
+
+Additional features include UIDocumentPicker PHPickerViewController for schedule history for checked and skipped medication document capture and contact integration, WatchKit support, background refresh capabilities, and time zone-aware scheduling. This elder-focused healthcare solution demonstrates enterprise-grade iOS development with machine learning, backend integration, accessibility compliance, and healthcare industry standards - creating a comprehensive digital care ecosystem for aging populations.
 
 CareCapsule was built with Xcode and written in Swift 5X. The design was created using SwiftUI.
 
-### Artificial Intelligence Chat
+### Artificial Intelligence Chat - Conversational, Log, Medication and Task Set Up
 <p align="center">
-	<video src="images/CareCapsuleImages/vid3.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<video src="images/CareCapsuleImages/vid4.mp4" width="180”  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/4.png" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<img src="images/CareCapsuleImages/5.png" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<video src="images/CareCapsuleImages/vid1.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<video src="images/CareCapsuleImages/vid2.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/6.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/7.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/32.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/CareCapsuleImages/8.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/4.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/CareCapsuleImages/5.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Dashboard and Notifications
+<p align="center">
+<img src="images/CareCapsuleImages/19.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/21.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/20.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Medication Scheduling, History, and Sharing Section
+<p align="center">
+<img src="images/CareCapsuleImages/1.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/24.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/9.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/34.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/35.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/33.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Reminders Section
+<p align="center">
+<img src="images/CareCapsuleImages/10.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/11.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/12.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Log Section
+<p align="center">
+<img src="images/CareCapsuleImages/17.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/18.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/16.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Contacts, Memories, and Resources Sections
+<p align="center">
+<img src="images/CareCapsuleImages/25.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/13.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/14.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/22.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/26.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Accessibility and Help
+<p align="center">
+<img src="images/CareCapsuleImages/27.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/28.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/29.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/30.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/31.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/15.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/23.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Expoji
