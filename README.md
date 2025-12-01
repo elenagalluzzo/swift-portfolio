@@ -8,13 +8,15 @@ emergency contacts. User data is persisted locally using SwiftData and the docum
 memories, contacts, and logs.
 
 CareCapsule was built with Xcode and written in Swift 5X. The design was created using SwiftUI.
+
+### Artificial Intelligence Chat
 <p align="center">
-	<img src="images/CareCapsuleImages/CareCapsulePreview1.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/CareCapsulePreview2.png" width="250”  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/CareCapsulePreview4.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<img src="images/CareCapsuleImages/CareCapsulePreview3.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/CareCapsulePreview5.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<img src="images/CareCapsuleImages/CareCapsulePreview7.gif" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<video src="images/CareCapsuleImages/vid3.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<video src="images/CareCapsuleImages/vid4.mp4" width="180”  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/4.png" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/CareCapsuleImages/5.png" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<video src="images/CareCapsuleImages/vid1.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<video src="images/CareCapsuleImages/vid2.mp4" width="180"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Expoji
