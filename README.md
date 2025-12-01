@@ -35,7 +35,6 @@ CareCapsule was built with Xcode and written in Swift 5X. The design was created
 <img src="images/CareCapsuleImages/24.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/CareCapsuleImages/9.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/CareCapsuleImages/34.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/35.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/CareCapsuleImages/33.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
