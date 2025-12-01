@@ -73,9 +73,7 @@ CareCapsule was built with Xcode and written in Swift 5X. The design was created
 </p>
 
 ## Expoji
-Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend.
-
-Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
+Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend. Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
 <p align="center">
 	<img src="images/ExpojiImages/ExpojiPreview5.png" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/ExpojiImages/ExpojiPreview1.png" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
