@@ -96,9 +96,7 @@ Wordaurus was built with Xcode and written in Swift 5X. The design was created u
 </p>
 
 ## TierAnime
-TierAnime is an iOS app project I created that allows the user to search, save, and rate Animes and view their description, images, and genres. This data was generated using the [Anime DB Api by BrianRofiq](https://rapidapi.com/brian.rofiq/api/anime-db). The Anime information is displayed using table views. I used Cloud Firestore for data persistence to keep the user’s saved Animes and their ratings. I used the [AARatingBar](https://cocoapods.org/pods/AARatingBar) CocoaPod by Engr. Ahsan Ali to add a rating bar for users to rate their Anime, which will then sort the anime by highest to lowest rating.
-
-TierAnime was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout.               
+TierAnime is an iOS app project I created that allows the user to search, save, and rate Animes and view their description, images, and genres. This data was generated using the [Anime DB Api by BrianRofiq](https://rapidapi.com/brian.rofiq/api/anime-db). The Anime information is displayed using table views. I used Cloud Firestore for data persistence to keep the user’s saved Animes and their ratings. I used the [AARatingBar](https://cocoapods.org/pods/AARatingBar) CocoaPod by Engr. Ahsan Ali to add a rating bar for users to rate their Anime, which will then sort the anime by highest to lowest rating.TierAnime was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout.               
 <p align="center">
 	<img src="images/TierAnimeImages/TierAnimePreview1.png" width="250"  title="TierAnime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/TierAnimeImages/TierAnimePreview2.png" width="250”  title="TierAnime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -108,6 +106,7 @@ TierAnime was built with Xcode and written in Swift 5X. The design was created u
    
 ## Fruitsonality
 Fruitsonality is my first completed iOS app project. The user is given a scenario with multiple prompts in which they can choose how to react to the scenario by clicking their choice. Depending on their choices, they are presented a fruit at the end of the quiz of their fruit personality. Fruitsonality was built with Xcode and written entirely in Swift 5X. The design was created using Storyboard and Auto Layout.
+
 <p align="center">
 	<img src="images/FruitsonalityImages/FruitsonalityPreview1.png" width="250"  title="fruitsonality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/FruitsonalityImages/FruitsonalityPreview2.png" width="250”  title="fruitsonality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
