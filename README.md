@@ -70,7 +70,7 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 <img src="images/CareCapsuleImages/23.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Expoji: A Cosplay Social Media
+## Expoji: Cosplay Social Media
 Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend. Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
 
 <p align="center">
@@ -81,7 +81,7 @@ Expoji is a SwiftUI social media app in progress designed for cosplayers, using 
  	<img src="images/ExpojiImages/ExpojiPreview4.gif" width="250"  title="Expoji">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Wordaurus
+## Wordaurus: Synonym Guessing Game
 Wordaurus is an iOS game app I created where the user has to guess any synonym to the word that appears on the screen. The synonyms were generated with the word as a parameter and generating possible symptoms using the [English synonyms API](https://rapidapi.com/ericmorvax-2YHUl-ynmUD/api/english-synonyms) by Eric Marvin. I used NSUserDefaults to keep track of the player’s score and to display the player’s high score. I used the [ConfettiView](https://cocoapods.org/pods/ConfettiView) CocoaPod by Or Ron to add confetti when the score page appears. This app was fun to create and to play. Wordaurus was built with Xcode and written in Swift 5X. The design was created using Storyboard and Auto Layout. 
 
 <p align="center">
