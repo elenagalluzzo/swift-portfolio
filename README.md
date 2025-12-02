@@ -61,13 +61,13 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 
 ### Accessibility and Help
 <p align="center">
-<img src="images/CareCapsuleImages/27.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/28.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/29.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/30.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/31.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/15.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/23.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/27.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/28.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/29.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/30.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/31.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/15.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/23.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Expoji
