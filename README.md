@@ -70,7 +70,7 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 <img src="images/CareCapsuleImages/23.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Expoji
+## Expoji: A Cosplay Social Media
 Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend. Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
 
 <p align="center">
