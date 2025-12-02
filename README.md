@@ -101,7 +101,7 @@ TierAnime is an iOS app project I created that allows the user to search, save, 
 	<img src="images/TierAnimeImages/TierAnimePreview4.gif" width="250"  title="TierAnime">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
    
-## Fruitsonality
+## Fruitsonality: Fruit Personality Test
 Fruitsonality is my first completed iOS app project. The user is given a scenario with multiple prompts in which they can choose how to react to the scenario by clicking their choice. Depending on their choices, they are presented a fruit at the end of the quiz of their fruit personality. Fruitsonality was built with Xcode and written entirely in Swift 5X. The design was created using Storyboard and Auto Layout.
 
 <p align="center">
