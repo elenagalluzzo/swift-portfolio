@@ -10,8 +10,6 @@ Accessibility and inclusive design were largely considered while developing Care
 
 Additional features include UIDocumentPicker and PHPickerViewController for schedule history for checked and skipped medication document capture and contact integration, WatchKit support, background refresh capabilities, and time zone-aware scheduling. This elder-focused healthcare solution demonstrates enterprise-grade iOS development with machine learning, backend integration, accessibility compliance, and validation, creating a comprehensive digital care ecosystem for aging populations.
 
-CareCapsule was built with Xcode and written in Swift 5X. The design was created using SwiftUI.
-
 ### Artificial Intelligence Chat - Conversational, Log, Medication and Task Set Up
 <p align="center">
 	<img src="images/CareCapsuleImages/6.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
