@@ -22,9 +22,9 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 
 ### Dashboard and Notifications
 <p align="center">
-<img src="images/CareCapsuleImages/19.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/21.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/20.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/19.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/21.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/20.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Medication Scheduling, History, and Sharing Section
