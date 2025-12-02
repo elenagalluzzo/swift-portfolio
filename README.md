@@ -46,8 +46,8 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 ### Log Section
 <p align="center">
 <img src="images/CareCapsuleImages/17.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/18.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/CareCapsuleImages/16.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/18.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/CareCapsuleImages/16.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Contacts, Memories, and Resources Sections
