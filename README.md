@@ -12,12 +12,12 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 
 ### Artificial Intelligence Chat - Conversational, Log, Medication and Task Set Up
 <p align="center">
-	<img src="images/CareCapsuleImages/6.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/7.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/32.gif" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<img src="images/CareCapsuleImages/8.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/CareCapsuleImages/4.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 	<img src="images/CareCapsuleImages/5.png" width="200"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/6.gif" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/7.gif" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/32.gif" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/CareCapsuleImages/8.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/CareCapsuleImages/4.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img src="images/CareCapsuleImages/5.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Dashboard and Notifications
