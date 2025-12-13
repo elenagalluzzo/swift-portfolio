@@ -2,7 +2,7 @@
 Welcome to my Swift Portfolio. My iOS app projects can be found below.
 
 ## Care Capsule: AI Powered Elder Care Assistant
-Care Capsule is a SwiftUI app built for the 2024 Swift Student Challenge that is a comprehensive healthcare companion app designed to assist elderly users by providing easily accessible care through their mobile devices. Built with SwiftUI and Swift Concurrency, the app features an AI-driven assistant chatbot, medication scheduling and task tracking, support resources tailored for seniors, and personal contacts, memories, and log management systems, featuring custom components, with local persistent SwiftData datastore.
+Care Capsule is a SwiftUI app that was originally built for the 2024 Swift Student Challenge that is a comprehensive healthcare companion app designed to assist elderly users by providing easily accessible care through their mobile devices. Built with SwiftUI and Swift Concurrency, the app features an AI-driven assistant chatbot, medication scheduling and task tracking, support resources tailored for seniors, and personal contacts, memories, and log management systems, featuring custom components, with local persistent SwiftData datastore.
 
 The application showcases advanced machine learning integration, evolving from a CreateML sentiment classifier in version 1 to a sophisticated fine-tuned OpenAI GPT model for version 2. This AI assistant provides conversational companionship while intelligently parsing natural language to set up medication schedules, tasks, memories, contacts, and logs through structured JSON responses. A custom Python backend deployed on AWS EC2 powers secure APIs, background processing, and scalable infrastructure.
 
