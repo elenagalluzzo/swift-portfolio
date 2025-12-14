@@ -70,6 +70,9 @@ Additional features include UIDocumentPicker and PHPickerViewController for sche
 <img src="images/CareCapsuleImages/23.png" width="250"  title="CareCapsule">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## Pantry Path: Food Donation Log App
+Pantry Path is a SwiftUI food donation log app built for DeltaHacks12 as a part of the Swift Workshop. Pantry Patch aims to helps reduce food waste through inventorying food items, tracking expiration dates, and coordinate pickups through an interactive map interface. The app categorizes food into types like Produce, Dairy, Bakery items, and more, with smart expiration warnings and filtering to help users donate before items spoil, and track detailed category information like produce ripeness or whether canned goods are opened. SwiftData powers the app's data persistence, storing food items with their locations, expiration dates, and custom photos. The model uses computed properties to handle complex category enumerations while maintaining type safety. Users can capture photos of their food using the PhotosPicker framework, set precise pickup locations by tapping on maps using the MapKit framework. Expoji was built with Xcode and written in Swift 6X for iOS 26+. The app was created using SwiftUI.
+
 ## Expoji: Cosplay Social Media
 Expoji is a SwiftUI social media app in progress designed for cosplayers, using Firebase Authentication for secure user sign-in and account management. Users will be able to create profiles, share their cosplays, and view others' creations through a dynamic community feed, with search and discovery functionality to find cosplays by characters or series, with Cloud Firestore as the backend. Expoji was built with Xcode and written in Swift 5X. The app was created using SwiftUI. 
 
