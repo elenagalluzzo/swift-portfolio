@@ -79,7 +79,7 @@ Pantry Path is a SwiftUI food donation log app built for DeltaHacks12 as a part 
 	<img src="images/PantryPathImages/PantryPathPreview3.png" width="250"  title="PantryPath">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/PantryPathImages/PantryPathPreview4.png" width="250"  title="PantryPath">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/PantryPathImages/PantryPathPreview5.png" width="250"  title="PantryPath">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/PantryPathImages/PantryPathPreview6.gif" width="250"  title="PantryPath">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/PantryPathImages/PantryPathPreview8.gif" width="250"  title="PantryPath">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Expoji: Cosplay Social Media
